@@ -4,3 +4,4 @@ Pipfile
 Pipfile.lock
 test.ipynb
 .*
+__pycache__
