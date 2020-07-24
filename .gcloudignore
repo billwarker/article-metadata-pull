@@ -1,0 +1,9 @@
+contentful-to-domo-c64caea16d5c.json
+creds
+gcloud-setup
+Pipfile
+Pipfile.lock
+__pycache__
+.ipynb_checkpoints
+.vscode
+*.ipynb
