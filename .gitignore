@@ -3,3 +3,4 @@ creds
 Pipfile
 Pipfile.lock
 test.ipynb
+.*
